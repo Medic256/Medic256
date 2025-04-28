@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Medic256
-- 👀 I’m interested in understanding technology
-- 🌱 I’m currently learning cybersecurity
-- 💞️ I’m looking to collaborate on, new to the site.  don't know yet
-- 📫 How to reach me linkedin (after we are introduced I can send a link of asked) 
+With 24 years of dedicated experience in emergency medicine as a paramedic, I have honed a unique blend of critical thinking, rapid decision-making, and problem-solving skills under pressure. My journey has been driven by a commitment to public safety and patient care, navigating high-stress environments with a calm and methodical approach.
 
-<!---
-Medic256/Medic256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In addition to my extensive medical background, I hold degrees in Networking, Microcomputers, and Programming, which have provided me with a strong technical foundation and a deep understanding of IT systems. This combination of healthcare expertise and technical knowledge has fueled my passion for cybersecurity, where I aim to leverage my diverse skill set to protect and secure critical information systems.
 
---->
+My experience as a martial arts instructor has further developed my ability to interact effectively with people from diverse backgrounds, honing my skills in communication, leadership, and training. Teaching martial arts has reinforced my discipline, patience, and the ability to adapt to different learning styles, which are invaluable in any professional environment, particularly in cybersecurity.
+
+Currently, I am expanding my knowledge in cybersecurity through various training programs and certifications, including preparing to sit for the Certified Ethical Hacker (CEH) exam at the end of the summer. My goal is to transition into a role where I can contribute to a team dedicated to safeguarding digital assets and ensuring robust security protocols. I am particularly interested in red teaming and aspire to eventually specialize in purple teaming, integrating offensive and defensive security strategies to enhance organizational resilience.
+
+I am excited about this new chapter and eager to bring my multidisciplinary experience to the cybersecurity field, where I can continue to make a meaningful impact on safety and security in the digital age.
